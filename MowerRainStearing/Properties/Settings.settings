@@ -1,0 +1,69 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MowerRainSteering.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="debug" Type="System.String" Scope="User">
+      <Value Profile="(Default)">true</Value>
+    </Setting>
+    <Setting Name="intervalToCheckRainSensor" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="emailForStatusMessages" Type="System.String" Scope="User">
+      <Value Profile="(Default)">martin@die-sickels.de</Value>
+    </Setting>
+    <Setting Name="emailForErrorMessages" Type="System.String" Scope="User">
+      <Value Profile="(Default)">martin@die-sickels.de</Value>
+    </Setting>
+    <Setting Name="startTimeForChecking" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="endTimeForChecking" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">23</Value>
+    </Setting>
+    <Setting Name="netatmoClientId" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Olc9fYEGvzHHWUCJdo0LaBf8bj8ktuVo3DSVV56XHg4=</Value>
+    </Setting>
+    <Setting Name="netatmoClientSecret" Type="System.String" Scope="User">
+      <Value Profile="(Default)">fh7bwq5npAe0NPMdsq6MSnzk7DZhHL1PZjX+nk0/sFJ52XdVuyAtMxE0G/MCK6rv</Value>
+    </Setting>
+    <Setting Name="netatmoLogin" Type="System.String" Scope="User">
+      <Value Profile="(Default)">netatmoUsernem</Value>
+    </Setting>
+    <Setting Name="netatmoPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">netatmoPassword</Value>
+    </Setting>
+    <Setting Name="gardenaLogin" Type="System.String" Scope="User">
+      <Value Profile="(Default)">gardenaUsername</Value>
+    </Setting>
+    <Setting Name="gardenaPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">gardenaPassword</Value>
+    </Setting>
+    <Setting Name="emailFromEmail" Type="System.String" Scope="User">
+      <Value Profile="(Default)">email who sends email</Value>
+    </Setting>
+    <Setting Name="emailAccountUser" Type="System.String" Scope="User">
+      <Value Profile="(Default)">username for your email account</Value>
+    </Setting>
+    <Setting Name="emailAccountUserPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">password for the email user account</Value>
+    </Setting>
+    <Setting Name="emailSMTP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">smtp.gmail.com</Value>
+    </Setting>
+    <Setting Name="emailSMTPPort" Type="System.String" Scope="User">
+      <Value Profile="(Default)">587</Value>
+    </Setting>
+    <Setting Name="emailSSL" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="rain" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0.1</Value>
+    </Setting>
+    <Setting Name="sendEmailsStatus" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="sendEmailError" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
